@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a Second Year B.Tech CSE Student currently learning and exploring technologies...  
+I’m a Third Year B.Tech CSE Student currently learning and exploring technologies...  
   
 
 <br/>  
