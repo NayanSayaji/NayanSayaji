@@ -12,31 +12,35 @@
 
 
 ### Glad to see you here!  
-I’m a Third Year B.Tech CSE Student currently learning and exploring technologies...  
-  
-
-<br/>  
-
+I’m a Final Year B.Tech CSE Student,👨🏻‍💻
+<br>Full Stack Developer Works on MERN stack.🌟
+<br>Computer science enthusiast........
+<br/>  Loves to explore new technologies.💥⚙
+<br/> Loves problem solving and Practicing DSA Problems in C++ 💻
+<br> I have proficiency in C,C++ & JavaScript.👨🏻‍💻
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
-- 🔭 I’m currently working on frontend technologies as HTML, CSS, JS...  
+- 🔭 I’m currently working on ReactJs AND NodeJs...  
+
+  
+- 🌱 I’m learning FullStack with integrating NodeJs, Express and React...  
+
+  
+- 🎗 I’m Practicing Data Structures and Algorithms ...  
+
+
+- ❓ Ask me about JavaScript and C++ , NodeJs Development , MERN Stack !!!✨
   
 
-- 🌱 I’m currently learning  learning frontend technologies as HTML, CSS, JS...  
-  
-
-- ❓ Ask me about anything related to Basic Web Technologies...  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep night shift swithed on at all times. 😁   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://images.squarespace-cdn.com/content/v1/5515ce85e4b0ac8577a8b5ed/1590790768257-FU8CSKGCCWPZI1ZS9HJX/hello.gif?format=1500w" align="center" style="width: 100%" />
 </div>  
 
 
