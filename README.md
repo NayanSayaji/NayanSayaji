@@ -50,8 +50,11 @@ I’m a Software Enginner,👨🏻‍💻
 
 
 ## Languages and Tools  
-![](https://skillicons.dev/icons?i=c,cpp,html,css,js,typescript,nodejs,express,mongodb,mysql,postgres,postman,npm,yarn,git,vscode)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,typescript,nodejs,express,mongodb,mysql,postgres,react,tailwind,bootstrap,figma,canva,postman,npm,yarn,git,vscode,materialui,md,github,gitlab" />
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 <table >
