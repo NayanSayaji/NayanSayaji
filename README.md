@@ -14,27 +14,18 @@
 ### Glad to see you here!  
 I’m a Software Enginner,👨🏻‍💻
 <br>Full Stack Engineer Works on MERN stack.🌟
-<br>Computer science enthusiast....
-<br>Loves to explore technologies.💥⚙
-<br>Love problem solving and Practicing it.. 💻
 <br>I have proficiency in C,C++ & JavaScript, Typescript.👨🏻‍💻
 
 ## Rapidfire  
 <table><tr><td valign="top" width="60%">
 
-- 🔭 I’m currently working on ReactJs AND NodeJs...  
-
   
-- 🌱 I’m learning FullStack with integrating NodeJs, Express and React...  
-
-  
-- 🎗 I’m Practicing Data Structures and Algorithms ...  
-
+- 🌱 I’m working as FullStack Engineer with NodeJs, Express and React...  
 
 - ❓ Ask me about JavaScript and C++ , NodeJs Development , MERN Stack !!!✨
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times. 😁   
+- ⚡ Fun fact: I keep night shift switched on at all times. 😁   
 
 
 </td><td valign="top" width="40%">
