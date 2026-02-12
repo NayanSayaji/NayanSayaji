@@ -48,18 +48,9 @@ I’m a Software Enginner,👨🏻‍💻
 </p>
 
 ## 📊 GitHub Stats:
-<table >
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=NayanSayaji&theme=dark&show_icons=true&count_private=true&hide_border=false" align="center" style="width: 100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayansayaji&theme=dark&show_icons=true&count_private=true" align="center" style="width: 100%" />
-    </td>
-  </tr>
-  <tr><td >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayansayaji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width:100%; heigth:30%" ">
-  </td></tr>
-</table>  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NayanSayaji&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=NayanSayaji&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NayanSayaji&layout=compact&theme=github_dark)
 
 ---
 
