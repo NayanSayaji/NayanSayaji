@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend & Full Stack Systems
 
-[LinkedIn](https://linkedin.com/in/nayan-sayaji) • [GitHub](https://github.com/NayanSayaji)
+[LinkedIn](https://linkedin.com/in/nayan-sayaji) 
 
 ---
 
