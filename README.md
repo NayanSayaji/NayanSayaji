@@ -18,7 +18,7 @@ I have hands-on experience designing and maintaining production-grade services, 
 
 - Backend Development using **Node.js (TypeScript / JavaScript) and Go**
 - Designing **scalable APIs and service-oriented architectures**
-- - Implementing **real-time systems using socket-based communication (WebSockets)**
+- Implementing **real-time systems using socket-based communication (WebSockets)**
 - Building and maintaining **microservices & distributed systems**
 - Working with **monorepo architectures** and modular codebases
 - Database design and optimization across **SQL & NoSQL systems**
