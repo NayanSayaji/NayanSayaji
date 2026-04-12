@@ -68,21 +68,14 @@ I have hands-on experience designing and maintaining production-grade services, 
 
 ---
 
-<!-- ## GitHub Stats
+## GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats-fast.vercel.app/api?username=NayanSayaji&show_icons=true&theme=github_dark" /> 
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=NayanSayaji&theme=github_dark" />
- <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NayanSayaji&layout=compact&theme=github_dark" /> 
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=NayanSayaji&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NayanSayaji&layout=compact&theme=github_dark" height="180" width="340" />
 </p>
 
 ---
--->
-## Contact
-
-- LinkedIn: https://linkedin.com/in/nayan-sayaji
-- GitHub: https://github.com/NayanSayaji
-
 ## Thank You
 
 Thank you for taking the time to visit my profile. I’m always open to meaningful conversations, collaborations, and opportunities to learn.
