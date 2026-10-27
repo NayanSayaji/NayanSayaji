@@ -3,7 +3,7 @@
 ### Software Engineer | Backend & Full Stack Systems
 
 Hey there!
-I'm Software Engineer with 2.5+ years of experience in building and scaling distributed backend systems and full-stack applications. I primarily work across the JavaScript/TypeScript ecosystem and Go, with a strong focus on backend architecture, distributed systems, and performance-driven design.
+I'm Software Engineer with 3 years of experience in building and scaling distributed backend systems and full-stack applications. I primarily work across the JavaScript/TypeScript ecosystem and Go, with a strong focus on backend architecture, distributed systems, and performance-driven design.
 
 I have hands-on experience designing and maintaining production-grade services, working with microservices architectures, and contributing to modular monorepo-based systems.
 
